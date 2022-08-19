@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-lfb2)pi$x28roel=j7psb0869p3^!+o1(xt5gs6l1(-q968oa5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] # www.palmeiras.com.br, executado no dominio
+ALLOWED_HOSTS = ['django-yst.herokuapp.com'] # www.palmeiras.com.br, executado no dominio
 
 
 # Application definition
